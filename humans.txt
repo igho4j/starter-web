@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Igho Godwin 
+    <role> Sr Cloud/Devops Engineer
+    <twitter>
 
 # THANKS
 
