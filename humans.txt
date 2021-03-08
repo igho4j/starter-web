@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Igho.Godwin
+    igho4j@gmail.com
+    DevOps Engineer
 
 # THANKS
 
