@@ -1,0 +1,2 @@
+Adding a new file in git projectt .
+This new file is not tracked by git
