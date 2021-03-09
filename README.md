@@ -11,3 +11,4 @@ Making changes to test auto merge
 ## Comparisons for Files
 
 We are using this file to inform us about the site
+Adding new lectures on Stash.
